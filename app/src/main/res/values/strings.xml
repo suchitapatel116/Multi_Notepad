@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="file_not_found">File Not Found!!</string>
+    <string name="encoding">UTF-8</string>
+    <string name="note_saved">Note is saved successfully</string>
+    <string name="filename">product.json</string>
+    <string name="not_saved">Untitled Note not Saved!!</string>
+    <string name="dots">...</string>
+    <string name="multi">Multi-Notes</string>
+    <string name="my_name">© 2018, Suchita Patel</string>
+    <string name="version">Version 1.0</string>
+</resources>
